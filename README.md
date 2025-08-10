@@ -1,8 +1,11 @@
-<!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Nada Ashraf!  
 **Backend Developer | .NET Specialist**
 
-<!-- Introduction -->
+<!-- Animated Typing Intro -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=9C27B0&lines=Backend+Developer;ASP.NET+Core+Specialist;Entity+Framework+Expert;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+---
+
 <p align="left">
 I am a dedicated Backend Developer with hands-on experience in building robust and scalable applications using .NET, Entity Framework, and RESTful APIs.  
 I’m passionate about writing clean, maintainable code and continuously expanding my skill set to stay aligned with modern technologies.
@@ -18,11 +21,11 @@ I’m passionate about writing clean, maintainable code and continuously expandi
 - **Email:** [nadaashraf102004@gmail.com](mailto:nadaashraf102004@gmail.com)  
 - **LinkedIn:** [Nada Ashraf](https://www.linkedin.com/in/nada-ashraf-7b3615294)  
 - **GitHub:** [nada2710](https://github.com/nada2710)  
-- **CV:** [View My Resume (PDF)](Nada-Ashraf-Moussa-CVpdf.pdf)  
+- **CV:** [📄 View My Resume (PDF)](Nada-Ashraf-Moussa-CVpdf.pdf)  
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20Views&color=770677&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -39,3 +42,24 @@ I’m passionate about writing clean, maintainable code and continuously expandi
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nada2710&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nada2710&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🌟 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nada2710&theme=react-dark&hide_border=true)
+
+---
+
+### 🎯 Fun Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
+</p>
+
