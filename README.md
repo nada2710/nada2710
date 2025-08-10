@@ -22,7 +22,7 @@ I’m passionate about writing clean, maintainable code and continuously expandi
 - **Email:** [nadaashraf102004@gmail.com](mailto:nadaashraf102004@gmail.com)  
 - **LinkedIn:** [Nada Ashraf](https://www.linkedin.com/in/nada-ashraf-7b3615294)  
 - **GitHub:** [nada2710](https://github.com/nada2710)  
-- **CV:** [📄 View My Resume (PDF)](Nada-Ashraf-Moussa-CV.pdf)  
+- **CV:** [📄 View My Resume (PDF)](Nada-Ashraf-Moussa-CVpdf.pdf)  
 
 ---
 
