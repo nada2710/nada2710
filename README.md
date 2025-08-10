@@ -2,8 +2,9 @@
 **Backend Developer | .NET Specialist**
 
 <!-- Animated Typing Intro -->
+<center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=9C27B0&lines=Backend+Developer;ASP.NET+Core+Specialist;Entity+Framework+Expert;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
-
+</center>
 ---
 
 <p align="left">
@@ -50,16 +51,3 @@ I’m passionate about writing clean, maintainable code and continuously expandi
   <img src="https://github-readme-stats.vercel.app/api?username=nada2710&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nada2710&theme=radical" height="180"/>
 </p>
-
----
-
-### 🌟 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nada2710&theme=react-dark&hide_border=true)
-
----
-
-### 🎯 Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
-</p>
-
