@@ -2,9 +2,9 @@
 **Backend Developer | .NET Specialist**
 
 <!-- Animated Typing Intro -->
-<center>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=9C27B0&lines=Backend+Developer;ASP.NET+Core+Specialist;Entity+Framework+Expert;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
-</center>
+
 ---
 
 <p align="left">
