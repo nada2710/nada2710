@@ -1,50 +1,98 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Nada Ashraf!  
-**Backend Developer | .NET Specialist**
+# 👋 Hey there, I'm Nada Ashraf!
 
-<!-- Animated Typing Intro -->
+### 💻 Software Engineer | Full-Stack Development | .NET & Node.js
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=9C27B0&lines=Backend+Developer;ASP.NET+Core+Specialist;Entity+Framework+Expert;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=9C27B0&center=false&vCenter=true&width=650&lines=Software+Engineer;Backend+Developer+%7C+.NET+%26+Node.js;Frontend+Development+%7C+UI;Cloud+%26+Networking+Enthusiast;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ---
 
-<p align="left">
-I am a dedicated Backend Developer with hands-on experience in building robust and scalable applications using .NET, Entity Framework, and RESTful APIs.  
-I’m passionate about writing clean, maintainable code and continuously expanding my skill set to stay aligned with modern technologies.
+### 🚀 About Me
+
+I'm a Software Engineer graduate from the Faculty of Computers and Information at Mansoura University, passionate about building practical software solutions and understanding how applications work from end to end.
+
+My experience and interests span **backend development, frontend development, databases, APIs, and software architecture**. I'm also exploring **cloud computing, networking, Linux, and Docker** to expand my knowledge beyond application development.
+
+- 💻 Building backend applications using **ASP.NET Core and Node.js**.
+- 🎨 Exploring frontend development and user interface implementation.
+- 🗄️ Working with relational and NoSQL databases.
+- ☁️ Learning cloud computing, networking, and infrastructure fundamentals.
+- 🐳 Exploring Docker and containerization.
+- 🌱 Always learning, building projects, and improving my engineering skills.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,python" />
 </p>
 
-- ✨ Lifelong learner — every day is an opportunity to grow.  
-- 🌱 Currently exploring advanced .NET concepts, cloud integration, and performance optimization.  
-- ❤️ Open-source contributor and tech community enthusiast.
+#### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
+</p>
+
+#### 🎨 Frontend Development & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+</p>
+
+#### 🗄️ Databases & Data Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
+
+#### ☁️ Cloud, Networking & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+#### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,swagger" />
+</p>
+
+**Also familiar with:** Entity Framework Core, ASP.NET Core Identity, JWT Authentication, REST APIs, SignalR, Socket.IO, SQL Server, and Git.
 
 ---
 
-### 📩 Contact Me
-- **Email:** [nadaashraf102004@gmail.com](mailto:nadaashraf102004@gmail.com)  
-- **LinkedIn:** [Nada Ashraf](https://www.linkedin.com/in/nada-ashraf-7b3615294) 
+### 📌 Featured Projects
+
+- 🎓 **DerasaX** — AI-powered smart education platform with multi-tenant architecture, authentication, and real-time features.
+- 🛒 **E-commerce API** — Backend application built with ASP.NET Core, Entity Framework Core, SQL Server, and payment integration.
+- ⚡ **Smart Task Management API** — Task management backend built with Node.js, Express, and Socket.IO.
+
+Explore more projects on my [GitHub repositories](https://github.com/nada2710?tab=repositories).
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nada2710&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nada2710&theme=radical&hide_border=true" height="180" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="mailto:nadaashraf102004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nada-ashraf-7b3615294">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nada2710">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20Views&color=770677&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-### 🛠 Languages & Tools
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a> 
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nada2710&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nada2710&theme=radical" height="180"/>
+  <i>Building, learning, and growing one project at a time. 🚀</i>
 </p>
