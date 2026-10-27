@@ -45,7 +45,7 @@ My experience and interests span **backend development, frontend development, da
 
 #### ☁️ Cloud, Networking & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
 #### 🔧 Tools & Technologies
@@ -55,16 +55,6 @@ My experience and interests span **backend development, frontend development, da
 </p>
 
 **Also familiar with:** Entity Framework Core, ASP.NET Core Identity, JWT Authentication, REST APIs, SignalR, Socket.IO, SQL Server, and Git.
-
----
-
-### 📌 Featured Projects
-
-- 🎓 **DerasaX** — AI-powered smart education platform with multi-tenant architecture, authentication, and real-time features.
-- 🛒 **E-commerce API** — Backend application built with ASP.NET Core, Entity Framework Core, SQL Server, and payment integration.
-- ⚡ **Smart Task Management API** — Task management backend built with Node.js, Express, and Socket.IO.
-
-Explore more projects on my [GitHub repositories](https://github.com/nada2710?tab=repositories).
 
 ---
 
